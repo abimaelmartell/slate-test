@@ -6,6 +6,6 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Build documentation
-      uses: Decathlon/slate-builder-action@v1.0.0
+      uses: Decathlon/slate-builder-action@v2.0.0
       env:
         DOC_BASE_FOLDER: "."
