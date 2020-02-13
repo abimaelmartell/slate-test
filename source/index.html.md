@@ -1,5 +1,5 @@
 ---
-title: API Reference Example
+title: API Reference Example Test
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
